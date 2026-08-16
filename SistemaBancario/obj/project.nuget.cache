@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3GPvENNyMcI=",
+  "success": true,
+  "projectFilePath": "C:\\__dev__\\portfolioPublico\\SistemaBancario\\SistemaBancario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\W11\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.14\\microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\W11\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.14\\microsoft.windowsdesktop.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\W11\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.14\\microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\W11\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.14\\microsoft.netcore.app.host.win-x64.9.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

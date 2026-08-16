@@ -1,0 +1,14 @@
+C:\__dev__\portfolioPublico\SistemaBancario\bin\Debug\net9.0\SistemaBancario.exe
+C:\__dev__\portfolioPublico\SistemaBancario\bin\Debug\net9.0\SistemaBancario.deps.json
+C:\__dev__\portfolioPublico\SistemaBancario\bin\Debug\net9.0\SistemaBancario.runtimeconfig.json
+C:\__dev__\portfolioPublico\SistemaBancario\bin\Debug\net9.0\SistemaBancario.dll
+C:\__dev__\portfolioPublico\SistemaBancario\bin\Debug\net9.0\SistemaBancario.pdb
+C:\__dev__\portfolioPublico\SistemaBancario\obj\Debug\net9.0\SistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\__dev__\portfolioPublico\SistemaBancario\obj\Debug\net9.0\SistemaBancario.AssemblyInfoInputs.cache
+C:\__dev__\portfolioPublico\SistemaBancario\obj\Debug\net9.0\SistemaBancario.AssemblyInfo.cs
+C:\__dev__\portfolioPublico\SistemaBancario\obj\Debug\net9.0\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\__dev__\portfolioPublico\SistemaBancario\obj\Debug\net9.0\SistemaBancario.dll
+C:\__dev__\portfolioPublico\SistemaBancario\obj\Debug\net9.0\refint\SistemaBancario.dll
+C:\__dev__\portfolioPublico\SistemaBancario\obj\Debug\net9.0\SistemaBancario.pdb
+C:\__dev__\portfolioPublico\SistemaBancario\obj\Debug\net9.0\SistemaBancario.genruntimeconfig.cache
+C:\__dev__\portfolioPublico\SistemaBancario\obj\Debug\net9.0\ref\SistemaBancario.dll
