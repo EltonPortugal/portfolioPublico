@@ -12,3 +12,4 @@ C:\__dev__\portfolioPublico\SistemaBancario\obj\Debug\net9.0\refint\SistemaBanca
 C:\__dev__\portfolioPublico\SistemaBancario\obj\Debug\net9.0\SistemaBancario.pdb
 C:\__dev__\portfolioPublico\SistemaBancario\obj\Debug\net9.0\SistemaBancario.genruntimeconfig.cache
 C:\__dev__\portfolioPublico\SistemaBancario\obj\Debug\net9.0\ref\SistemaBancario.dll
+C:\__dev__\portfolioPublico\SistemaBancario\obj\Debug\net9.0\SistemaBancario.sourcelink.json
